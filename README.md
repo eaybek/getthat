@@ -2,5 +2,10 @@
 [github](https://github.com/eaybek/getthat/)  
 [PyPi](https://pypi.org/project/getthat/)  
 
-getthat reserved for self usage purpose
+getthat  
+
+i dont care if i don't have it.  
+(pip3 install if modulenotfound)  
+
+
 
